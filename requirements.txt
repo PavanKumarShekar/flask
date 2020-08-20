@@ -1,0 +1,9 @@
+flask
+gunicorn
+yahoo-finance
+stock_info
+io
+json
+pandas
+requests
+requests_html
